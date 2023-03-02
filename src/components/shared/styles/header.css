@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    gap: 2rem;
+}
+.header__logo {
+    color: #f85555;
+    cursor: pointer;
+}
+.header__logo-link {
+    color: inherit;
+}
+.header__list {
+    display: flex;
+    gap: 1rem;
+}
+.header__link {
+    font-size: 1.3rem;
+}

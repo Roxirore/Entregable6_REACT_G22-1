@@ -1,0 +1,9 @@
+img {
+    width: 100%;
+}
+.price::before {
+    content: '$';
+}
+label, input, button {
+    font-size: 1.5rem;
+}
